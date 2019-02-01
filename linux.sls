@@ -9,3 +9,6 @@ AAAAB3NzaC1yc2EAAAABJQAAAQEAmYyZXe89el8mFZO/RDqvJSB6LSDvORMs8fc9AnUwsnqQ1Vsc6Fiu
 saltmaster:
    host.present:
       - ip: 192.168.80.128
+
+
+#testtttt
